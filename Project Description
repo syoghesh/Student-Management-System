@@ -1,0 +1,5 @@
+Student Management system:-
+
+In this project, we can learn how to add new students, how to generate a 5-digit unique student ID for each student,
+how to enroll students in the given courses, and implement operations such as enroll, view,balance, pay tuition fees, and show status 
+using Java OOPs concepts and the status will show all the details of the student, including name, ID, courses enrolled, and balance.
